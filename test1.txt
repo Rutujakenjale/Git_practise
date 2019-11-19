@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DACC-5784
+
+ Directory of C:\Users\rutuja.kenjale\Desktop\practising_git
+
+19-11-2019  14:23    <DIR>          .
+19-11-2019  14:23    <DIR>          ..
+19-11-2019  14:23                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  146,621,939,712 bytes free
